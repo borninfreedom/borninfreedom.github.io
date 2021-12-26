@@ -22,14 +22,5 @@ Github: [https://github.com/borninfreedom](https://github.com/borninfreedom)
 
 也可以加我微信交流的啦~，15621465986
 
----
-title: 'Python文件和目录操作整理'
-date: 2021-12-23
-permalink: /posts/2021/12/blog-post-2/
-tags:
-  - Python
-  - 文件操作
-  - 文件夹操作
----
-
-将常用的Python文件和目录操作整理了一下，包括文件和文件夹的读写、创建删除、复制移动，还有一些像文件、文件夹的过滤等其他的小技巧。
+### 最新博客
+[Python文件和文件夹操作整理](https://borninfreedom.github.io/posts/2021/12/blog-post-2/)

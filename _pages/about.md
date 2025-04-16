@@ -18,11 +18,7 @@ bug404主要做的是深度强化学习和机器学习，平时也做一些DIY�
 
 Github: [https://github.com/borninfreedom](https://github.com/borninfreedom)
 
-B站：[bug404_的个人空间](https://space.bilibili.com/97404373)，我会在B站放一些航拍、DIY的视频
-
 知乎：[bug404](https://www.zhihu.com/people/bug-404)，知乎的文章与本站是同步的，知乎的好处是可以看到大家的评论和我在知乎的动态
 
 CSDN：[born-in-freedom](https://blog.csdn.net/bornfree5511)，CSDN已经不再发布新的博客了
 
-
-也可以加我微信交流，15621465986

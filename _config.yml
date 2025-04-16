@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "文岩 / 个人主页"
+title                    : "bug404 / 个人主页"
 title_separator          : "-"
-name                     : &name "文岩"
-description              : &description "机器学习、深度强化学习从业者"
+name                     : &name "bug404"
+description              : &description "深度学习、cv、模型部署"
 url                      : https://borninfreedom.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "borninfreedom/borninfreedom.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "文岩（bug404）"
-  avatar           : "profile.png"
-  bio              : "爱好DIY的AIer"
+  name             : "bug404"
+  avatar           : "site-logo.png"
+  bio              : "cv、深度学习、模型部署"
   location         : "中国，深圳"
   employer         :
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "z19040042@s.upc.edu.cn"
+  email            : "None"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://github.com/borninfreedom/"
   bitbucket        :
